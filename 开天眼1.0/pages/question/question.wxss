@@ -1,0 +1,28 @@
+.container{
+    height: 100%;
+    background-color: #F0FFFF;
+    background-repeat: repeat;
+    padding-top:30rpx;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 37rpx;
+}
+
+.help1{
+   font-size: 17px;
+   margin-bottom: 20rpx;
+}
+
+.help2{
+   font-size: 17px;
+   margin-bottom: 20rpx;
+}
+
+.help3{
+   font-size: 17px;
+   margin-bottom: 10rpx;
+}
+
+.pic{
+   margin-left: 80rpx;
+}

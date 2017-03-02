@@ -1,0 +1,37 @@
+/**flash.wxss**/
+.container {
+  background-image: url("http://10.103.240.143:8181/pm25/image/app_welcome3.jpg");
+  background-repeat: round;
+  padding: 246rpx;
+} 
+
+.content{
+    font-size: 60px;
+    height: 100%;
+    width:  100%;
+    margin-left: 30rpx;
+    font-weight: 700;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+.title1{
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 40rpx;
+    color: white;
+}
+
+.title2{
+    text-align: center;
+    padding-bottom: 40rpx;
+    color: white;
+}
+
+.title3{
+    text-align: center;
+    padding-bottom: 40rpx;
+    color: white;
+}
+
+.word{
+    padding-bottom: 40rpx;
+}

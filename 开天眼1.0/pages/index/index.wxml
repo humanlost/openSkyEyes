@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+    <view class="ques">
+        <image bindtap="bindQuestionTap" class="q1" style="width: 40px; height: 40px;" mode="scaleToFill" src="{{Qsrc}}"> </image>
+    </view>
+    <view class="run">
+        <image bindtap="bindPhotoTap" class="camera1" style="width: 210px; height: 200px;" mode="scaleToFill" src="{{src}}"> </image>
+    </view>    
+</view>

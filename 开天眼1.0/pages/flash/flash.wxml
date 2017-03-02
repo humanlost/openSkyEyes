@@ -1,0 +1,7 @@
+<!--flash.wxml-->
+<view class="container">
+ <view class="content">
+    <image class="word" style="width: 100px; height: 350px;" mode="scaleToFill" src="{{src}}"> </image>
+
+ </view>
+</view>

@@ -1,0 +1,17 @@
+<view class="container">
+    <view class="content">
+
+      <view class="help1">
+          开天眼是北京邮电大学物联网实验室研发的一款根据天空图片分析空气中pm2.5含量的App。
+      </view>
+      <view class="help2">
+          使用指南：请用手机摄像头对准天空与地面交界处拍摄一张照片，以照片中轴作为天空与地面的分割线，然后上传，就可以分析出其中pm2.5的含量。
+      </view>
+      <view class="help3">
+          拍照样例：
+      </view>
+
+      <image class="pic" style="width: 300px; height: 450px;" mode="scaleToFill" src="{{src}}"> </image>
+
+    </view>
+</view>

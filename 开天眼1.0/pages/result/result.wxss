@@ -1,0 +1,27 @@
+.container{
+     height: 100%;
+     flex-direction: column;
+     box-sizing: border-box;
+     display: flex;
+}
+
+.result{
+
+}
+
+.btnGroup{
+    height: 200rpx;
+   flex-direction: row;
+   display: flex;
+   background-color: 	#ADD8E6;
+   align-items: center;
+   
+}
+
+.OK{
+   margin-left: 110rpx;
+}
+
+.again{
+   margin-left: 260rpx;
+}

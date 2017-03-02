@@ -1,0 +1,10 @@
+<view class="container">
+      <view class="result">
+           <canvas canvas-id="CCanvas" hidden="false" disable-scroll="true" style="border: 0px solid; width: 255px; height: 255px;"/>
+           <canvas canvas-id="myCanvas" disable-scroll="true" style="border: 0px solid; width: 375px; height: 527px;"/>
+      </view>
+      <view class="btnGroup">
+           <image bindtap="bindOKTap" class="OK" style="width: 70px; height: 70px;" mode="scaleToFill" src="{{OKsrc}}"> </image>
+           <image bindtap="bindAgTap" class="again" style="width: 70px; height: 70px;" mode="scaleToFill" src="{{agsrc}}"> </image>
+      </view>
+</view>

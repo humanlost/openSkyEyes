@@ -1,0 +1,16 @@
+{
+  "pages":[
+
+    "pages/flash/flash",
+    "pages/index/index",
+    "pages/result/result",
+    "pages/question/question"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#F0FFFF",
+    "navigationBarTitleText": "开天眼",
+    "navigationBarTextStyle":"black"
+  }
+}
